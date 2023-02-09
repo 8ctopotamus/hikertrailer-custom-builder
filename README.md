@@ -1,13 +1,21 @@
 # 🚛 HikerTrailer Custom Builder
 A custom trailer builder.
 
+* [Current Spreadsheet]('./assets/configurator.xlsx)
+* [Wireframe PSD](./assets/wireframe.psd)
+
 ## Initial Questions
 * Does this need to integrate with Shopify or Woocommerce? Currently there is a Shopify site.
 
 ## Roadmap 🛣
 
-### Tech Options
 We'll build an awesome, fast UI using a JS Framework, such as [React](https://reactjs.org/).
+
+Something like this (TBD):
+
+<img title="wireframe" alt="wireframe" src="./assets/wireframe.jpg" />
+
+### Tech Options
 
 * Wordpress backend**
   

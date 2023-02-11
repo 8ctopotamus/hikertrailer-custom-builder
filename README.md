@@ -1,5 +1,5 @@
 # 🚛 HikerTrailer Custom Builder
-A custom trailer builder.
+A custom trailer build configurator.
 
 * [Current Spreadsheet]('./assets/configurator.xlsx)
 * [Wireframe PSD](./assets/wireframe.psd)
